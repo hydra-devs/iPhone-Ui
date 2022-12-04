@@ -1,3 +1,13 @@
---> A typical clone of iphone settings Interface.
---> Clone and test "Npm run dev" ;)
---> You might need to install "vite"  "npm install vite@latest" or just run with the Old Html ways :)
+# Iphone UI
+
+
+> **A typical clone of iphone settings Interface using ==VITE== Development Environment.**
+
+----
+
+     SETUP
+    - clone Repo
+    - npm install
+    - npm run dev 
+  
+
