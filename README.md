@@ -1,4 +1,4 @@
-# Iphone UI
+# IPHONE UI
 
 
 > **A typical clone of iphone settings Interface using ==VITE== Development Environment.**
